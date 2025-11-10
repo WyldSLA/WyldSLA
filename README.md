@@ -1,4 +1,8 @@
-<h2 align="left">👋 Olá! Eu sou o Wyl! </h2>
+<h2 align="left">Olá 👋! Meu nome é Wyldson Marllon, sou desenvolvedor Back-End.</h2>
+
+###
+
+<p align="left">Sou desenvolvedor back-end com foco em criar APIs modernas, seguras e bem estruturadas.<br>Trabalho principalmente com o ecossistema Node.js, utilizando TypeScript, NestJS e Prisma ORM para desenvolver soluções escaláveis e de alta performance.<br><br>Gosto de entender como as coisas funcionam por trás do código e aplicar boas práticas de arquitetura, organização de projetos e modelagem de dados.<br>Sou movido por aprendizado constante e pela vontade de escrever código limpo, eficiente e de fácil manutenção. 🚀</p>
 
 ###
 
@@ -36,6 +40,12 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
