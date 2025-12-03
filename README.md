@@ -1,16 +1,16 @@
 
 <br>
 
-<h1 align="center">👋 Olá, sou Wyldson Marllon</h1>
+<h1 align="center">👋 Olá, sou WyldSLA </h1>
 <h3 align="center">Back-End Developer | Node.js | TypeScript | NestJS</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400" alt="Coding GIF"/>
 </div>
 
 <br>
 
-## 👋 Sobre Mim
+## 💻 Sobre Mim
 
 Sou desenvolvedor back-end com foco em criar APIs modernas, seguras e bem estruturadas. Trabalho principalmente com o ecossistema Node.js, utilizando TypeScript, NestJS e Prisma ORM para desenvolver soluções escaláveis e de alta performance.
 
